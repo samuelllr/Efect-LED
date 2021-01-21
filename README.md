@@ -1,6 +1,6 @@
 # Efect-LED
 
-<b>0.1v - UPDATE 13_12_2020</b>
+![GitHub](https://img.shields.io/github/license/samuelllr/Efect-LED)
 
 Efeitos com 6 LEDS conectados ao arduino.
 Este repositório contém códigos para arduino onde gera um efeito visual com 6 LED's nas portas do arduino.
@@ -28,3 +28,7 @@ Resistor 160 ohm for yellow LED.
 Resistor 125 ohm for blue LED.
 Resistor 150 ohm for green LED.
 All with negative (anode) common, cáto connected to resistors and then in arduino port 7,6,5,4,3 and 2.
+
+************
+
+### UPDATE 21/02/2020.
